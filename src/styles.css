@@ -16,3 +16,7 @@ body {
   align-items:center;
   border-bottom: 1px solid back;
 }
+
+.content {
+  min-height: calc(100vh - 100px);
+}
